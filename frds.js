@@ -80,4 +80,4 @@ client.on('message', message => {
   }
 });
  
-client.login('NzI4NTc1MDY3NjA4NDQ5MDc0.Xv8YaA.oNhxJxlJ-_nuwX9Dh91zWIX8DqM');
+client.login('YrfFU3g5eT1hyZuinPalOoWe4X4Wel3J');
